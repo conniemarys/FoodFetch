@@ -2,7 +2,7 @@
 .vs/
 
 *.uasset
-!Content/Fantastic_Village_Pack/**/.uasset
+!/Content/Fantastic_Village_Pack/**/*.uasset
 
 # Compiled Object files
 *.slo
