@@ -1,9 +1,7 @@
 # Visual Studio 2015 user specific files
 .vs/
 
-#Content/**/*.uasset
 #Content/**/*.umap
-Content/
 *.uasset
 
 # Compiled Object files
