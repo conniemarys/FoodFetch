@@ -1,8 +1,8 @@
 # Visual Studio 2015 user specific files
 .vs/
 
-#Content/**/*.umap
 *.uasset
+!Content/Fantastic_Village_Pack/**/.uasset
 
 # Compiled Object files
 *.slo
