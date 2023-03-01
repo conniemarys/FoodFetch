@@ -1,8 +1,14 @@
 # Visual Studio 2015 user specific files
 .vs/
 
-*.uasset
-!/Content/Fantastic_Village_Pack/**/*.uasset
+Content/ThirdPersonMapAssets
+Content/PM_interactiveSpruceForest
+Content/StarterContent
+Content/LandscapeMaterials
+Content/ThirdPerson/Maps
+Content/MSPresets
+
+
 
 # Compiled Object files
 *.slo
